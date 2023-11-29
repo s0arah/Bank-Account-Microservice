@@ -1,12 +1,12 @@
-package com.belyazid.comptemicroservice.web;
+package com.benmessaoud.comptemicroservice.web;
 
-import com.belyazid.comptemicroservice.dto.BankAccountRequestDto;
-import com.belyazid.comptemicroservice.dto.BankAccountResponseDto;
-import com.belyazid.comptemicroservice.entities.BankAccount;
-import com.belyazid.comptemicroservice.entities.Customer;
-import com.belyazid.comptemicroservice.repository.BankAccountRepository;
-import com.belyazid.comptemicroservice.repository.CustomerRepository;
-import com.belyazid.comptemicroservice.service.AccountService;
+import com.benmessaoud.comptemicroservice.dto.BankAccountRequestDto;
+import com.benmessaoud.comptemicroservice.dto.BankAccountResponseDto;
+import com.benmessaoud.comptemicroservice.entities.BankAccount;
+import com.benmessaoud.comptemicroservice.entities.Customer;
+import com.benmessaoud.comptemicroservice.repository.BankAccountRepository;
+import com.benmessaoud.comptemicroservice.repository.CustomerRepository;
+import com.benmessaoud.comptemicroservice.service.AccountService;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
